@@ -320,8 +320,6 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				INFOPLIST_FILE = Resources/Info.plist;
 				OTHER_LDFLAGS = (
-					"-lcrypto",
-					"-lssl",
 					"-lz",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.vafer.mac.uif2iso4mac;
